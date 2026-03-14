@@ -1,5 +1,5 @@
 # Hi 👋 I'm Mauricio Alexander
-### Software Engineer Student | UX/UI Designer | Co-founder @ Veindifa
+### Software Engineer Student | UX/UI Designer | Founder @ Vendify
 
 I bridge the gap between rigorous software engineering and strategic visual design to build scalable digital products and high-fidelity user experiences. 
 
@@ -10,7 +10,7 @@ I bridge the gap between rigorous software engineering and strategic visual desi
 * 🤖 **Interests:** Advanced AI workflows (Claude API), Product Design, and Full-stack development.
 
 ### 🚀 Featured Projects
-- 💼 **Veindifa (SaaS)**: Leading the UX/UI strategy and frontend implementation for a scalable software solution.
+- 💼 **Vendify (SaaS)**: Leading the UX/UI strategy and frontend implementation for a scalable software solution.
 - 🎓 **University Engineering Portfolio**: A collection of algorithms, data structures, and database management projects.
 
 ### 💻 Tech Stack & Tools
