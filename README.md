@@ -4,10 +4,10 @@
 I bridge the gap between rigorous software engineering and strategic visual design to build scalable digital products and high-fidelity user experiences. 
 
 * 🌍 **Based in:** Trujillo, Peru.
-* 🛠 **Currently working on:** Architecting the **Veindifa** SaaS ecosystem from the ground up.
+* 🛠 **Currently working on:** Architecting the **Vendify** SaaS ecosystem from the ground up.
 * 🎓 **Education:** Fourth-cycle Computer Engineering student at **National University of Trujillo (UNT)**.
 * 🏛 **Leadership:** Active member of the Student Federation (Centro Federado).
-* 🤖 **Interests:** Advanced AI workflows (Claude API), Product Design, and Full-stack development.
+* 🤖 **Interests:** Advanced AI workflows, Product Design, and Full-stack development.
 
 ### 🚀 Featured Projects
 - 💼 **Vendify (SaaS)**: Leading the UX/UI strategy and frontend implementation for a scalable software solution.
